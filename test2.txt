@@ -1,5 +1,7 @@
-Changes made in master branch:
-ABCDEFGhijklmnop
+
+Changes made in both branches:
+Abcd
+ABCDEFG1234
 1.
 2.
 3.
